@@ -1,0 +1,15 @@
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\bin\Debug\net9.0\HotelReserva.exe
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\bin\Debug\net9.0\HotelReserva.deps.json
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\bin\Debug\net9.0\HotelReserva.runtimeconfig.json
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\bin\Debug\net9.0\HotelReserva.dll
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\bin\Debug\net9.0\HotelReserva.pdb
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\obj\Debug\net9.0\HotelReserva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\obj\Debug\net9.0\HotelReserva.AssemblyInfoInputs.cache
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\obj\Debug\net9.0\HotelReserva.AssemblyInfo.cs
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\obj\Debug\net9.0\HotelReserva.csproj.CoreCompileInputs.cache
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\obj\Debug\net9.0\HotelReserva.sourcelink.json
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\obj\Debug\net9.0\HotelReserva.dll
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\obj\Debug\net9.0\refint\HotelReserva.dll
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\obj\Debug\net9.0\HotelReserva.pdb
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\obj\Debug\net9.0\HotelReserva.genruntimeconfig.cache
+C:\Users\keoxc.000\source\repos\BootcampWEX\ProjetoReservasNoHotel\HotelReserva\obj\Debug\net9.0\ref\HotelReserva.dll
