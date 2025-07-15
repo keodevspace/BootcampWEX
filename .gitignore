@@ -1,0 +1,52 @@
+# Pasta do Visual Studio
+.vs/
+
+# Build Results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log
+*.log
+
+# Diretórios do Rider
+.idea/
+
+# Diretórios do VS Code
+.vscode/
+
+# Arquivos do sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Configurações do Mac
+.DS_Store
+
+# Arquivos do Windows
+*.bak
+*.tmp
+
+# Pacotes NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+
+# Arquivos do Teste
+TestResults/
+*.coverage
+*.coveragexml
+
+# Secrets
+secrets.json
+
+# Publish
+publish/
